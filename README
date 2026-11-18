@@ -1,0 +1,10 @@
+# CP-017 TrackPoint: Order Lifecycle and Delivery Tracking System
+## Team
+Ravi K (1AT23CS045), Asha M (1AT23CS051), Java track
+## How to run
+javac Main.java
+java Main
+## Features that work
+1. Place an order ...   (list all Core and Stretch Features that work)
+## Sample run
+(paste console output or add a screenshot
